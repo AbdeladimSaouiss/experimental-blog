@@ -1,4 +1,4 @@
-// const axios = require('axios');
+const axios = require('axios');
 var url = 'https://newsapi.org/v2/top-headlines?' +
     'country=us&' +
     'apiKey=1014d84c0cfa4bb389fa7e71415bc8cc';
